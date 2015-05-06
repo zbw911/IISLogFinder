@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IIsLog", "IIsLog\IIsLog.csproj", "{9C0CEC24-CCF8-4D5F-AFC9-2867295645D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogComm", "LogComm\LogComm.csproj", "{9FF40C6B-8480-4BB3-9F73-F8800C349C3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUseLog", "ConsoleUseLog\ConsoleUseLog.csproj", "{622D4602-D5EC-4737-A7AE-1BBCA21AF114}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C0CEC24-CCF8-4D5F-AFC9-2867295645D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C0CEC24-CCF8-4D5F-AFC9-2867295645D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C0CEC24-CCF8-4D5F-AFC9-2867295645D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C0CEC24-CCF8-4D5F-AFC9-2867295645D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FF40C6B-8480-4BB3-9F73-F8800C349C3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FF40C6B-8480-4BB3-9F73-F8800C349C3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FF40C6B-8480-4BB3-9F73-F8800C349C3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FF40C6B-8480-4BB3-9F73-F8800C349C3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{622D4602-D5EC-4737-A7AE-1BBCA21AF114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{622D4602-D5EC-4737-A7AE-1BBCA21AF114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{622D4602-D5EC-4737-A7AE-1BBCA21AF114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{622D4602-D5EC-4737-A7AE-1BBCA21AF114}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
